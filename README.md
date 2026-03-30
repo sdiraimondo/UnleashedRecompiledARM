@@ -3,6 +3,7 @@
 ## Step 1: Install Dependencies
 'Before building anything, you need to install some tools and libraries.
 
+sudo apt install gcc-aarch64-linux-gnu g++-aarch64-linux-gnu
 sudo apt install autoconf automake libtool pkg-config curl cmake ninja-build clang clang-tools libgtk-3-dev zip unzip tar libpipewire-0.3-dev libpulse-dev libasound2-dev clang lld mesa-vulkan-drivers git
 
 ## Step 2: Clone the Repository
